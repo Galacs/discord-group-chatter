@@ -1,0 +1,8 @@
+{
+  "name": "discord-Group-Chatter",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "repository": "https://github.com/Galacs/discord-group-chatter.git",
+  "author": "Rémi Ait-Younes <remi.aityounes@gmail.com>",
+  "license": "MIT"
+}
